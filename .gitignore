@@ -1,6 +1,7 @@
 # Secrets — never commit
 .env
 .dockerignore
+.idea
 
 # Python
 __pycache__/
