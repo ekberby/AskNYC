@@ -136,7 +136,13 @@ index.add(embeddings)
 OLLAMA_HOST = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 client = ollama.Client(host=OLLAMA_HOST)
 def generate(system_prompt, user_content):
-    resp = client.chat(model="llama3.1", messages=[...])  # ollama.chat → client.chat
+    resp = client.chat(
+        model="llama3.1",
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user",   "content": user_content},
+        ],
+    )
     return resp["message"]["content"]
 
 def ask(query: object, k: object = 3) -> Any:
