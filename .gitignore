@@ -1,0 +1,8 @@
+# Secrets — never commit
+.env
+.dockerignore
+
+# Python
+__pycache__/
+*.pyc
+.venv/

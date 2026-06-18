@@ -1,0 +1,1820 @@
+Chapter 1
+- Title, Establishment of Controls and Interpretation of Regulations
+The City of New York
+Zohran K. Mamdani, Mayor
+City Planning Commission
+Sideya Sherman, Chair
+Last Amended
+8/8/2018
+History
+Print Chapter
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1
+11-00
+TITLE
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-00
+11-01
+Long Title
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-01
+A Resolution regulating the height and bulk of buildings and other structures, regulating and determining the area of yards, courts and other open spaces, and the density of population, and regulating and restricting the location of trades and industries and the location of buildings designed for specific uses within the City of New York, and for such purposes dividing the City into districts.
+11-02
+Short Title
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-02
+This Resolution shall be known and may be cited as the Zoning Resolution of the City of New York.
+11-10
+ESTABLISHMENT AND SCOPE OF CONTROLS, ESTABLISHMENT OF DISTRICTS, AND INCORPORATION OF MAPS
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-10
+11-11
+Establishment of Control over Use and Bulk
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-11
+11-111
+Applicability of this Resolution
+Last Amended
+2/2/2011
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-111
+In all districts, after December 15, 1961, any
+zoning lot
+or other tract of land, as applicable, and anything therein or thereupon, including any
+development
+,
+enlargement
+,
+extension
+, change of
+use
+, new or existing
+use
+,
+conversion
+, alteration, site alteration, relocation, reconstruction and any
+building or other structure
+shall be subject to the regulations of this Resolution; and shall continue to be subject to the provisions of this Resolution in effect at the time of such
+development
+,
+enlargement
+, establishment of  or change of
+use
+,
+conversion
+, alteration, site alteration, relocation or reconstruction, unless such provisions are modified by an amendment of this Resolution applicable to
+buildings or other structures
+or
+uses
+existing at the time of such amendment.
+Where an existing
+use
+or
+building or other structure
+is
+non-conforming
+or
+non-complying
+, the provisions of Article V (Non-Conforming Uses and Non-Complying Buildings) may apply.
+11-12
+Establishment of Districts
+Last Amended
+5/8/2013
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-12
+11-121
+District names
+Last Amended
+6/6/2024
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-121
+Each zoning district is designated by a letter indicating the general land use classification – R for Residence, C for Commercial and M for Manufacturing – followed by one or two numbers and, sometimes, a letter suffix. In residence districts, generally, the higher the first number, the greater the density permitted and the larger the building. Parking requirements usually decrease as density increases. A second number, following a hyphen (such as R3-1 or R3-2), denotes variations in use, bulk or parking regulations among districts within a common density category. In commercial and manufacturing districts, the first number denotes the intensity of permitted uses; the higher the first number, generally, the broader the scope of uses that are permitted and the more significant the land use impact of such uses. The second number, following a hyphen, denotes differences in bulk or parking regulations within a common use category. The higher the second number, generally, the larger the building permitted and/or the lower the parking requirements. Letter suffixes have been added to the designations of certain districts (such as R10A) to indicate contextual counterparts that seek to maintain, enhance or establish new neighborhood characteristics or building scale.
+In certain Special Purpose Districts, a specific
+Manufacturing District
+is paired with a
+Residence District
+. Regulations pertaining to such paired district, including how to consider such districts with regards to the applicability of other underlying zoning regulations, are set forth Article XII, Chapter 3 (Special Mixed Use District).
+11-122
+Districts established
+Last Amended
+8/14/2025
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-122
+In order to carry out the purposes and provisions of this Resolution, the following districts are hereby established:
+Residence Districts
+R1-1    Single-Family Detached Residence District
+R1-2    Single-Family Detached Residence District
+R1-2A    Single-Family Detached Residence District
+R2    Single-Family Detached Residence District
+R2A    Single-Family Detached Residence District
+R2X    Single-Family Detached Residence District
+R3-1    Detached and Semi-Detached Residence District
+R3-2    General Residence District
+R3A    Detached Residence District
+R3X    Detached Residence District
+R4    General Residence District
+R4-1    Detached and Semi-Detached Residence District
+R4A    Detached Residence District
+R4B    General Residence District
+R5    General Residence District
+R5A    Detached Residence District
+R5B    General Residence District
+R5D    General Residence District
+R6    General Residence District
+R6-1    General Residence District
+R6-2    General Residence District
+R6A    General Residence District
+R6B    General Residence District
+R6D    General Residence District
+R7-1    General Residence District
+R7-2    General Residence District
+R7-3    General Residence District
+R7A    General Residence District
+R7B    General Residence District
+R7D    General Residence District
+R7X    General Residence District
+R8    General Residence District
+R8A    General Residence District
+R8B    General Residence District
+R8X    General Residence District
+R9    General Residence District
+R9-1    General Residence District
+R9A    General Residence District
+R9D    General Residence District
+R9X    General Residence District
+R10    General Residence District
+R10A    General Residence District
+R10H    General Residence District
+R10X    General Residence District
+R11    General Residence District
+R11A    General Residence District
+R12    General Residence District
+Commercial Districts
+C1-1    Local Commercial District
+C1-2    Local Commercial District
+C1-3    Local Commercial District
+C1-4    Local Commercial District
+C1-5    Local Commercial District
+C1-6    Local Commercial District
+C1-6A    Local Commercial District
+C1-7    Local Commercial District
+C1-7A    Local Commercial District
+C1-8    Local Commercial District
+C1-8A    Local Commercial District
+C1-8X    Local Commercial District
+C1-9    Local Commercial District
+C1-9A    Local Commercial District
+C2-1    Local Commercial District
+C2-2    Local Commercial District
+C2-3    Local Commercial District
+C2-4    Local Commercial District
+C2-5    Local Commercial District
+C2-6    Local Commercial District
+C2-6A    Local Commercial District
+C2-7    Local Commercial District
+C2-7A    Local Commercial District
+C2-7X    Local Commercial District
+C2-8    Local Commercial District
+C2-8A    Local Commercial District
+C3    Waterfront Recreation District
+C3A    Waterfront Recreation District
+C4-1    General Commercial District
+C4-2    General Commercial District
+C4-2A    General Commercial District
+C4-2F    General Commercial District
+C4-3    General Commercial District
+C4-3A    General Commercial District
+C4-4    General Commercial District
+C4-4A    General Commercial District
+C4-4D    General Commercial District
+C4-4L    General Commercial District
+C4-5    General Commercial District
+C4-5A    General Commercial District
+C4-5D    General Commercial District
+C4-5X    General Commercial District
+C4-6    General Commercial District
+C4-6A    General Commercial District
+C4-7    General Commercial District
+C4-8    General Commercial District
+C4-9    General Commercial District
+C4-11    General Commercial District
+C4-11A    General Commercial District
+C4-12    General Commercial District
+C5-1    General Central Commercial District
+C5-1A    General Central Commercial District
+C5-2    General Central Commercial District
+C5-2.5    General Central Commercial District
+C5-2A    General Central Commercial District
+C5-3    General Central Commercial District
+C5-3.5    General Central Commercial District
+C5-4    General Central Commercial District
+C5-5    General Central Commercial District
+C5-P    General Central Commercial District
+C6-1    General Central Commercial District
+C6-1A    General Central Commercial District
+C6-1G    General Central Commercial District
+C6-2    General Central Commercial District
+C6-2A    General Central Commercial District
+C6-2G    General Central Commercial District
+C6-2M    General Central Commercial District
+C6-3    General Central Commercial District
+C6-3A    General Central Commercial District
+C6-3D    General Central Commercial District
+C6-3X    General Central Commercial District
+C6-4    General Central Commercial District
+C6-4.5    Restricted Central Commercial District
+C6-4A    General Central Commercial District
+C6-4M    General Central Commercial District
+C6-4X    General Central Commercial District
+C6-5    General Central Commercial District
+C6-5.5    Restricted Central Commercial District
+C6-6    General Central Commercial District
+C6-6.5    Restricted Central Commercial District
+C6-7    General Central Commercial District
+C6-7.5    Restricted Central Commercial District
+C6-7T    Restricted Central Commercial District
+C6-8    General Central Commercial District
+C6-9    General Central Commercial District
+C6-11   General Central Commercial District
+C6-12   General Central Commercial District
+C7-1    General Commercial District
+C7-2    General Commercial District
+C7-3    General Commercial District
+C7-4    General Commercial District
+C7-5    General Commercial District
+C7-6    General Commercial District
+C7-7    General Commercial District
+C7-8    General Commercial District
+C7-9    General Commercial District
+C8-1    General Service District
+C8-2    General Service District
+C8-3    General Service District
+C8-4    General Service District
+Manufacturing Districts
+M1-1    Light Manufacturing District (High Performance)
+M1-1A    Light Manufacturing District (High Performance)
+M1-1D    Light Manufacturing District (High Performance)
+M1-2    Light Manufacturing District (High Performance)
+M1-2A    Light Manufacturing District (High Performance)
+M1-2D    Light Manufacturing District (High Performance)
+M1-3    Light Manufacturing District (High Performance)
+M1-3A    Light Manufacturing District (High Performance)
+M1-3D    Light Manufacturing District (High Performance)
+M1-4    Light Manufacturing District (High Performance)
+M1-4A    Light Manufacturing District (High Performance)
+M1-4D    Light Manufacturing District (High Performance)
+M1-5    Light Manufacturing District (High Performance)
+M1-5A    Light Manufacturing District (High Performance)
+M1-5B    Light Manufacturing District (High Performance)
+M1-5D    Light Manufacturing District (High Performance)
+M1-5M    Light Manufacturing District (High Performance)
+M1-6    Light Manufacturing District (High Performance)
+M1-6A    Light Manufacturing District (High Performance)
+M1-6D    Light Manufacturing District (High Performance)
+M1-6M    Light Manufacturing District (High Performance)
+M1-7A    Light Manufacturing District (High Performance)
+M1-8A    Light Manufacturing District (High Performance)
+M1-9A    Light Manufacturing District (High Performance)
+M2-1    Medium Manufacturing District (Medium Performance)
+M2-1A    Medium Manufacturing District (Medium Performance)
+M2-2    Medium Manufacturing District (Medium Performance)
+M2-2A    Medium Manufacturing District (Medium Performance)
+M2-3    Medium Manufacturing District (Medium Performance)
+M2-3A    Medium Manufacturing District (Medium Performance)
+M2-4    Medium Manufacturing District (Medium Performance)
+M2-4A    Medium Manufacturing District (Medium Performance)
+M3-1    Heavy Manufacturing District (Low Performance)
+M3-1A    Heavy Manufacturing District (Low Performance)
+M3-2    Heavy Manufacturing District (Low Performance)
+M3-2A    Heavy Manufacturing District (Low Performance)
+Special Purpose Districts
+Establishment of the Special 125th Street District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 7, the
+Special 125th Street District
+is hereby established.
+Establishment of the Special Atlantic Avenue Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article XIV, Chapter 6, the
+Special Atlantic Avenue Mixed Use District
+is hereby established.
+Establishment of the Special Battery Park City District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 4, the
+Special Battery Park City District
+is hereby established.
+Establishment of the Special Bay Ridge District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 4, the
+Special Bay Ridge District
+is hereby established.
+Establishment of the Special Bay Street Corridor District
+In order to carry out the special purposes of this Resolution as set forth in Article XIII, Chapter 5, the
+Special Bay Street Corridor District
+is hereby established.
+Establishment of the Special Brooklyn Navy Yard District
+In order to carry out the special purposes of this Resolution as set forth in Article XIV, Chapter 4, the
+Special Brooklyn Navy Yard District
+is hereby established.
+Establishment of the Special City Island District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 2, the
+Special City Island District
+is hereby established.
+Establishment of the Special Clinton District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 6, the
+Special Clinton District
+is hereby established.
+Establishment of the Special Coastal Risk District
+In order to carry out the special purposes of this Resolution as set forth in Article XIII, Chapter 7, the
+Special Coastal Risk District
+is hereby established.
+Establishment of the Special College Point District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 6, the
+Special College Point District
+is hereby established.
+Establishment of the Special Coney Island District
+In order to carry out the special purposes of this Resolution as set forth in Article XIII, Chapter 1, the
+Special Coney Island District
+is hereby established.
+Establishment of the Special Coney Island Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 6, the
+Special Coney Island Mixed Use District
+is hereby established.
+Establishment of the Special Downtown Brooklyn District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 1, the
+Special Downtown Brooklyn District
+is hereby established.
+Establishment of the Special Downtown Far Rockaway District
+In order to carry out the special purposes of this Resolution as set forth in Article XIII, Chapter 6, the
+Special Downtown Far Rockaway District
+is hereby established.
+Establishment of the Special Downtown Jamaica District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 5, the
+Special Downtown Jamaica District
+is hereby established.
+Establishment of the Special East Harlem Corridors District
+In order to carry out the special purposes of this Resolution as set forth in Article XIII, Chapter 8, the
+Special East Harlem Corridors District
+is hereby established.
+Establishment of the Special Enhanced Commercial District
+In order to carry out the special purposes of this Resolution as set forth in Article XIII, Chapter 2, the
+Special Enhanced Commercial District
+is hereby established.
+Establishment of the Special Flushing Waterfront District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 7, the
+Special Flushing Waterfront District
+is hereby established.
+Establishment of the Special Forest Hills District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 6, the
+Special Forest Hills District
+is hereby established.
+Establishment of the Special Garment Center District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 1, the
+Special Garment Center District
+is hereby established.
+Establishment of the Special Governors Island District
+In order to carry out the special purposes of this Resolution, as set forth in Article XIII, Chapter 4, the
+Special Governors Island District
+is hereby established.
+Establishment of the Special Gowanus Mixed Use District
+In order to carry out the special purposes of this Resolution, as set forth in Article XIII, Chapter 9, the
+Special Gowanus Mixed Use District
+is hereby established.
+Establishment of the Special Grand Concourse Preservation District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 2, the
+Special Grand Concourse Preservation District
+is hereby established.
+Establishment of the Special Harlem River Waterfront District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 7, the
+Special Harlem River Waterfront District
+is hereby established.
+Establishment of the Special Hillsides Preservation District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 9, the
+Special Hillsides Preservation District
+is hereby established.
+Establishment of the Special Hudson River Park District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 9, the
+Special Hudson River Park District
+is hereby established.
+Establishment of the Special Hudson Square District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 8, the
+Special Hudson Square District
+is hereby established.
+Establishment of the Special Hudson Yards District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 3, the
+Special Hudson Yards District
+is hereby established.
+Establishment of the Special Hunts Point District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 8, the
+Special Hunts Point District
+is hereby established.
+Establishment of the Special Inwood District
+In order to carry out the special purposes of this Resolution as set forth in Article XIV, Chapter 2, the
+Special Inwood District
+is hereby established.
+Establishment of the Special Jerome Corridor District
+In order to carry out the special purposes of this Resolution as set forth in Article XIV, Chapter 1, the
+Special Jerome Corridor District
+is hereby established.
+Establishment of Special Limited Commercial District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 3, the
+Special Limited Commercial District
+is hereby established.
+Establishment of Limited Height Districts
+The following are hereby established as
+Limited Height Districts
+to which the provisions of paragraph (c) of Section
+23-443
+(Special provisions in other geographies), Sections
+24-591
+or
+33-491
+(Limited Height Districts) shall apply either directly or in other provisions of this Resolution, where they are incorporated by cross-reference:
+LH-1   Limited Height District No. 1
+LH-1A  Limited Height District No. 1A
+LH-2   Limited Height District No. 2
+LH-3   Limited Height District No. 3
+Establishment of the Special Lincoln Square District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 2, the
+Special Lincoln Square District
+is hereby established.
+Establishment of the Special Little Italy District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 9, the
+Special Little Italy District
+is hereby established.
+Establishment of the Special Long Island City Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 7, the
+Special Long Island City Mixed Use District
+is hereby established.
+Establishment of the Special Lower Manhattan District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 1, the
+Special Lower Manhattan District
+is hereby established.
+Establishment of the Special Madison Avenue Preservation District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 9, the
+Special Madison Avenue Preservation District
+is hereby established.
+Establishment of the Special Manhattanville Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 4, the
+Special Manhattanville Mixed Use District
+is hereby established.
+Establishment of the Special Midtown District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 1, the
+Special Midtown District
+is hereby established.
+Establishment of the Special Midtown South Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 1, the
+Special Midtown South Mixed Use District
+is hereby established.
+Establishment of the Special Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 3, the
+Special Mixed Use District
+is hereby established.
+Establishment of the Special Natural Area District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 5, the
+Special Natural Area District
+is hereby established.
+Establishment of the Special Ocean Parkway District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 3, the
+Special Ocean Parkway District
+is hereby established.
+Establishment of the Special Park Improvement District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 2, the
+Special Park Improvement District
+is hereby established.
+Establishment of the Special Planned Community Preservation District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 3, the
+Special Planned Community Preservation District
+is hereby established.
+Establishment of the Special Scenic View District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 2, the
+Special Scenic View District
+is hereby established.
+Establishment of the Special Sheepshead Bay District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 4, the
+Special Sheepshead Bay District
+is hereby established.
+Establishment of the Special SoHo-NoHo Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article XIV, Chapter 3, the
+Special SoHo-NoHo Mixed Use District
+is hereby established.
+Establishment of the Special South Richmond Development District
+In order to carry out the special purposes of this Resolution as set forth in Article X, Chapter 7, the
+Special South Richmond Development District
+is hereby established.
+Establishment of the Special Southern Hunters Point District
+In order to carry out the special purposes of this Resolution, as set forth in Article XII, Chapter 5, the
+Special Southern Hunters Point District
+is hereby established.
+Establishment of the Special Southern Roosevelt Island District
+In order to carry out the special purposes of this Resolution as set forth in Article XIII, Chapter 3, the
+Special Southern Roosevelt Island District
+is hereby established.
+Establishment of the Special St. George District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 8, the
+Special St. George District
+is hereby established.
+Establishment of the Special Stapleton Waterfront District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 6, the
+Special Stapleton Waterfront District
+is hereby established.
+Establishment of the Special Transit Land Use District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 5, a
+Special Transit Land Use District
+is hereby established.
+Establishment of the Special Tribeca Mixed Use District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 1, the
+Special Tribeca Mixed Use District
+is hereby established.
+Establishment of the Special Union Square District
+In order to carry out the special purposes of this Resolution as set forth in Article XI, Chapter 8, the
+Special Union Square District
+is hereby established.
+Establishment of the Special United Nations Development District
+In order to carry out the special purposes of this Resolution as set forth in Article VIII, Chapter 5, the
+Special United Nations Development District
+is hereby established.
+Establishment of the Special West Chelsea District
+In order to carry out the special purposes of this Resolution as set forth in Article IX, Chapter 8, the
+Special West Chelsea District
+is hereby established.
+Establishment of the Special Willets Point District
+In order to carry out the special purposes of this Resolution as set forth in Article XII, Chapter 4, the
+Special Willets Point District
+is hereby established.
+11-123
+Special Purpose Districts
+Last Amended
+2/2/2011
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-123
+For the Special Purpose Districts listed in Section
+11-122
+(Districts established), each Special Purpose District appears on the
+zoning maps
+superimposed on other districts and its regulations supplement or modify those of the districts upon which it is superimposed.
+11-13
+Public Parks
+Last Amended
+12/10/2013
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-13
+District designations indicated on
+zoning maps
+do not apply to
+public parks
+, except as set forth in Section
+105-91
+(Special District Designation on Public Parks) and in paragraph (c) of Section
+62-361
+(Special floor area regulations). In the event that a
+public park
+or portion thereof is sold, transferred, exchanged or in any other manner relinquished from the control of the Commissioner of Parks and Recreation, no building permit shall be issued, nor shall any
+use
+be permitted on such former
+public park
+or portion thereof, until a zoning amendment designating a zoning district therefor has been adopted by the City Planning Commission and has become effective after submission to the City Council in accordance with the provisions of Section
+71-10
+(PROCEDURE FOR AMENDMENTS).
+11-14
+Incorporation of Maps
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-14
+The location and boundaries of the districts established by this Resolution are shown upon the
+zoning maps
+, which are hereby incorporated into the provisions of this Resolution.  The said
+zoning maps
+in their entirety, including all amendments thereto, shall be as much a part of this Resolution as if fully set forth and described herein.
+11-15
+Environmental Requirements
+Last Amended
+3/28/2012
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-15
+The designation (E) or an environmental restrictive declaration, where listed in APPENDIX C (City Environmental Quality Review (CEQR) Environmental Requirements) of this Resolution, indicate that environmental requirements pertaining to potential hazardous materials, noise or air quality impacts have been established in connection with an amendment of or an action pursuant to this Resolution for one or more tax lots. Such environmental requirements are set forth in the CEQR determination related to such amendment or action.
+CEQR determinations are on file with the lead agency and the Mayor’s Office of Environmental Coordination (MOEC). A listing of such CEQR determinations and their related environmental requirements is found within APPENDIX C of this Resolution. (E) designations and environmental restrictive declarations may only be removed from APPENDIX C or modified in accordance with the provisions of paragraph (d) of this Section.
+In the case of a merger or subdivision of lots, any of which is subject to an (E) designation or environmental restrictive declaration, such (E) designation or environmental restrictive declaration shall be considered assigned to all portions of the merged or subdivided lots. The environmental requirements of such (E) designation or environmental restrictive declaration shall apply to the merged or subdivided lots, or portions thereof, as determined by the Office of Environmental Remediation (OER).
+Tax lots with environmental requirements shall be subject to the following:
+(a)        Building permit conditions
+Prior to issuing a building permit or temporary or final certificate of occupancy, for any action listed in paragraphs (a)(1), (a)(2) or (a)(3) of this Section, on a tax lot that has an (E) designation or an environmental restrictive declaration related to hazardous materials, noise or air quality, the Department of Buildings (DOB) shall be furnished with a notice issued by OER stating that OER does not object to the issuance of such building permit, or temporary or final certificate of occupancy, in accordance with the applicable rules of the City of New York (OER Notice).
+(1)        For hazardous materials
+(i)        any
+development
+;
+(ii)        an
+enlargement
+,
+extension
+or change of
+use
+, any of which involves a
+residential
+or a
+community facility use
+; or
+(iii)        an
+enlargement
+or alteration of a
+building
+for any
+use
+that involves a disturbance of the soil;
+(2)        For air quality
+(i)        any
+development
+;
+(ii)        an
+enlargement
+,
+extension
+or change of
+use
+; or
+(iii)        an alteration that involves ventilation or exhaust systems, including, but not limited to, stack relocation or vent replacement; or
+(3)        For noise
+(i)        any
+development
+;
+(ii)        an
+enlargement
+,
+extension
+or change of
+use
+; or
+(iii)        an alteration that involves window or exterior wall relocation or replacement.
+(b)        Ongoing site management
+In the event that a duly issued OER Notice indicates that a tax lot that has an (E) designation or an environmental restrictive declaration requires ongoing site management, OER may require that a declaration of covenants and restrictions governing the ongoing site management requirements be recorded against the subject tax lot in the Office of the City Register or, where applicable, in the County Clerk’s Office in the county where the lot is located.
+As a condition to the issuance of a temporary or final certificate of occupancy or granting of permit sign-off, if no certificate of occupancy is required, DOB shall be provided with proof that the declaration of covenants and restrictions for ongoing site management has been duly recorded. The recording information for the ongoing site management declaration shall be referenced on the first certificate of occupancy to be issued after such declaration is recorded, as well as all subsequent certificates of occupancy, for as long as the declaration remains in effect.
+(c)        Modifications
+Upon application to OER by the owner of the affected lot(s), OER may, with the consent of the lead agency, modify the environmental requirements set forth in a CEQR determination based upon new information, additional facts or updated standards, as applicable, provided that such modifications are equally protective.
+(d)        Completion of environmental requirements
+(1)        Removal of tax lots subject to an (E) designation or an environmental restrictive declaration from APPENDIX C
+The Department of City Planning (DCP) shall administratively modify APPENDIX C after receiving a duly issued OER Notice, stating that the environmental requirements related to an (E) designation or contained in an environmental restrictive declaration related to potential hazardous materials, noise or air quality have been completed or otherwise no longer apply to a tax lot(s), because:
+(i)        no further testing, remediation or ongoing site management is required for hazardous materials contamination;
+(ii)        the noise-generating source has been permanently eliminated; or
+(iii)        the emissions source related to air quality has been permanently eliminated.
+(2)        Removal of an (E) designation from APPENDIX C
+DCP shall administratively remove an (E) designation from APPENDIX C when, in accordance with the provisions of paragraph (d)(1) of this Section, the environmental requirements for all tax lots subject to the (E) designation have been completed.
+(3)        Cancellation of an environmental restrictive declaration and modification of APPENDIX C
+DCP shall administratively remove an environmental restrictive declaration from APPENDIX C when, in accordance with the provisions of paragraph (d)(1) of this Section, the environmental requirements contained in such environmental restrictive declaration have been completed for all tax lots and a Notice of Cancellation of the environmental restrictive declaration has been duly recorded against the subject tax lots in the Office of the City Register or, where applicable, in the County Clerk’s Office in the county where the lots are located.
+(4)        Notification
+DCP shall notify DOB, MOEC and OER when modifications to APPENDIX C are made.
+(e)        The provisions of this Section shall apply to all (E) designations and environmental restrictive declarations, notwithstanding the date such environmental requirements were established.
+11-151
+Special requirements for properties in the Borough of Queens
+Last Amended
+10/29/2025
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-151
+(a)        Block 9898, Lots 1 and 117, in the Borough of Queens, shall be subject to the provisions of Section
+11-15
+(Environmental Requirements) governing (E) designations. The City Environmental Quality Review (CEQR) Declarations for these sites shall be listed in APPENDIX C (City Environmental Quality Review (CEQR) Environmental Requirements) of the Zoning Resolution.
+(b)        The following special requirements shall apply to a
+development
+,
+enlargement
+or change of
+use
+for properties in the Borough of Queens located within the areas described in paragraphs (1) through (4) of this paragraph, (b).
+(1)        The regulations of an R4 District shall apply within an area bounded by Liberty Avenue, 170th Street, a line 100 feet southeasterly of Liberty Avenue, and a line 100 feet southwesterly of 168th Place.
+(2)        The regulations of a C8-1 District shall apply within an area bounded by Liberty Avenue, a line 100 feet southwesterly of 168th Place, a line 150 feet northwesterly of 104th Avenue, and Merrick Boulevard.
+(3)        The regulations of an M1-1 District shall apply within an area bounded by Liberty Avenue, Sutphin Boulevard, 105th Avenue, a line 50 feet southwesterly of 148th Street, a line 100 feet northwesterly of 105th Avenue, and a line 150 feet northeasterly of Sutphin Boulevard.
+(4)        The regulations of an R6 District with a C2-2 District overlay shall apply within an area bounded by 163rd Street, a line perpendicular to 163rd Street passing through a point distant 109.42 feet as measured along the easterly
+street line
+of 163rd Street from the intersection of the southeasterly line of Hillside Avenue and the northeasterly line of 163rd Street, a line 86 feet northeasterly of 163rd Street, a line perpendicular to 163rd Street passing through a point 146.92 feet distant as measured along the easterly
+street line
+of 163rd Street from the intersection of the southeasterly line of Hillside Avenue and the northeasterly line of 163rd Street.
+However, in the event that the Chairperson of the City Planning Commission, based on consultation with the Department of Environmental Protection of the City of New York, provides a certificate of no effect to the Department of Buildings with regard to industrial air emissions for an area described in paragraph (b) of this Section, the regulations of the zoning districts designated on the
+zoning map
+shall apply to any
+development
+,
+enlargement
+or change of
+use
+within such area, to the extent permitted under the terms of the certificate of no effect.
+11-16
+Pierhead Lines, Bulkhead Lines and Marginal Streets
+Last Amended
+10/25/1993
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-16
+The pierhead and bulkhead lines shown on the
+zoning maps
+shall be the lines adopted by the United States Army Corps of Engineers, except where a New York City pierhead or bulkhead line is adopted, in which case the New York City line shall be the governing line for the purposes of this Resolution. In the event a provision of this Resolution refers to a pierhead or bulkhead line and no such line is shown on the
+zoning map
+, then the
+shoreline
+shall control.
+Marginal streets, ways, places or wharves shown on the
+zoning maps
+shall not be deemed to be
+streets
+for the purposes of this Resolution, unless expressly stated otherwise.
+11-20
+INTERPRETATION OF PROVISIONS
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-20
+11-21
+Provisions Are Minimum Requirements
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-21
+In interpreting and applying the provisions of this Resolution, such provisions shall be considered as the minimum requirements:
+(a)        to promote and protect public health, safety and general welfare, as set forth in the Preamble to this Resolution and in the statements of legislative intent for the respective districts and other regulations; and
+(b)        to provide a gradual remedy for existing conditions which are detrimental thereto.
+11-22
+Application of Overlapping Regulations
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-22
+Whenever any provision of this Resolution and any other provisions of law, whether set forth in this Resolution or in any other law, ordinance or resolution of any kind, impose overlapping or contradictory regulations over the
+use
+of land, or over the
+use
+or
+bulk
+of
+buildings or other structures
+, or contain any restrictions covering any of the same subject matter, that provision which is more restrictive or imposes higher standards or requirements shall govern.  In case of any conflict between the performance standards and the rules and regulations adopted by the Department of Environmental Protection, the more restrictive shall apply.
+11-23
+Demolition and Replacement
+Last Amended
+3/22/2016
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-23
+The alteration of an existing
+building
+resulting in both the removal of more than 75 percent of the
+floor area
+and more than 25 percent of the perimeter walls of such existing
+building
+, and the replacement of any amount of
+floor area
+, shall be considered a
+development
+for the purposes of the following provisions. The provisions of this Section shall apply notwithstanding the provisions of Article V (Non-Conforming Uses and Non-Complying Buildings). However, these provisions shall not apply where the
+building
+to be replaced is a
+single-
+or
+two-family residence
+utilizing the provisions of Article V.
+Section
+23-611
+(Street tree planting)
+Section
+23-612
+(Planting strips in residence districts)
+Section
+33-04
+(Street Tree Planting in Commercial Districts)
+Section
+37-35
+(Parking Wrap and Screening Requirements)
+Section
+37-40
+(OFF-STREET RELOCATION OR RENOVATION OF A SUBWAY STAIR)
+Section
+81-42
+(Retail Continuity Along Designated Streets)
+Section
+81-46
+(Off-Street Relocation or Renovation of a Subway Stair)
+Section
+81-72
+(Use Regulations Modified)
+Section
+82-12
+(Mandatory Off-Street Relocation of a Subway Stair)
+Section
+91-43
+(Off-street Relocation or Renovation of a Subway Stair)
+Section
+93-14
+(Ground Floor Level Requirements)
+Section
+93-65
+(Transit Facilities)
+Section
+93-66
+(Open Area Requirements in the Large-Scale Plan Subdistrict A)
+Section
+93-70
+(PUBLIC ACCESS REQUIREMENTS FOR SPECIAL SITES)
+Section
+95-03
+(Transit Easement)
+Section
+95-04
+(Certification of Transit Easement Volume)
+Section
+95-08
+(Special Use Regulations)
+Section
+97-12
+(Arts and Entertainment Use Requirement)
+Section
+98-14
+(Ground Floor Use and Transparency Requirements on Tenth Avenue)
+Section
+98-53
+(Required Open Areas on the East Side of the High Line)
+Section
+98-54
+(Transparency Requirements on the East Side of the High Line)
+Section
+98-60
+(SPECIAL REGULATIONS FOR CERTAIN ZONING LOTS)
+Section
+101-11
+(Special Ground Floor Use Regulations)
+Section
+101-43
+(Off-street Relocation or Renovation of a Subway Stair)
+Section
+108-30
+(MODIFICATION OF STREET TREE REQUIREMENTS)
+Section
+109-33
+(Special Front Wall Regulations)
+Section
+117-42
+(Special Bulk and Use Regulations in the Court Square Subdistrict)
+Section
+117-44
+(Mandatory Subway Improvements)
+Section
+117-45
+(Developer's Notice)
+Section
+117-55
+(Mandatory sidewalk widening)
+Section
+118-30
+(OFF-STREET RELOCATION OF A SUBWAY STAIR WITHIN THE SPECIAL UNION SQUARE DISTRICT)
+Section
+119-112
+(Tier I tree planting requirements)
+Section
+119-216
+(Tier II tree planting requirements)
+Section
+124-30
+(MANDATORY IMPROVEMENTS)
+Section
+124-40
+(PUBLICLY ACCESSIBLE OPEN SPACE REQUIREMENTS)
+Section
+126-21
+(Street Tree Planting)
+11-24
+Equivalence of Use Group Classifications
+Last Amended
+6/6/2024
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-24
+Uses
+existing prior to June 6, 2024, within a Use Group that on June 6, 2024, were recategorized into another Use Group shall not be considered a change of
+use
+for the purposes of applying the provisions of this Resolution.
+11-25
+District Designations Appended with Suffixes
+Last Amended
+6/29/1994
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-25
+All regulations applicable to a district designation shall be applicable to such district designation appended with a suffix, except as otherwise set forth in express provisions of this Resolution. If a section lists an R4 District, therefore, the provisions of that section shall also apply to R4-1, R4A and R4B Districts, unless separate provisions for the districts with suffixes are listed within such section. Wherever a section lists only a district with a suffix, the provisions applicable to such district are different from the provisions of that district without a suffix. If a section lists only a C4-6A District, therefore, the provisions of that section are not applicable to a C4-6 District.
+11-27
+Regulations Concerning Effective Date of Amendment and Alteration Permits
+Last Amended
+6/29/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-27
+11-271
+Alteration permits filed for residential occupancy prior to May 18, 1981, in certain M1-6 Districts
+Last Amended
+6/29/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-271
+In M1-6 Districts located within the rectangle formed by West 35th Street, Fifth Avenue, West 40th Street and Sixth Avenue, no
+dwelling units
+shall be permitted, except that:
+(a)
+dwelling units
+which the Chairperson of the City Planning Commission determines were occupied on May 18, 1981, shall be a permitted
+use
+provided that a complete application to permit such
+use
+is filed by the owner of the
+building
+or the occupant of the
+dwelling unit
+not later than June 21, 1983.  For the purposes of Article 7C of the New York State Multiple Dwelling Law, such a determination of
+residential
+occupancy shall be deemed to permit
+residential use
+as-of-right for such
+dwelling unit
+; and
+(b)        in any
+building
+for which an alteration application for conversion of
+floor area
+used for non-
+residential use
+to
+dwelling units
+or for an
+extension
+or minor
+enlargement
+of existing
+residential use
+, was filed prior to May 18, 1981,
+dwelling units
+shall be permitted, provided that such alterations shall comply with the regulations in effect on the date of such filing.  The right to convert to
+dwelling units
+or
+extend
+or
+enlarge
+existing
+residential use
+pursuant to the provisions of this paragraph shall expire one year from July 23, 1981, unless a temporary or permanent certificate of occupancy has been issued.
+11-272
+Alteration applications filed prior to effective date of amendment C821182 ZMM, rezoning the area between Canal Street, Baxter Street, White Street and Broadway
+Last Amended
+6/29/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-272
+In the
+Manufacturing District
+located in the area between Canal Street, Baxter Street, Walker Street, Centre Street, White Street and Broadway,
+residential use
+shall not be permitted.  However:
+(a)        all
+dwelling units
+for which an alteration application to permit such
+use
+was filed with the Department of Buildings prior to December 16, 1982, and a temporary or permanent certificate of occupancy is obtained not later than December 16, 1984, shall be a permitted
+use
+; and
+(b)
+dwelling units
+which the Chairperson of the City Planning Commission determines were occupied on August 31, 1982, shall be a permitted
+use
+provided that a complete application to permit such
+use
+is filed by the owner of the
+building
+or the occupant of a
+dwelling unit
+in such
+building
+not later than August 31, 1983.   For the purposes of Article 7C of the New York State Multiple Dwelling Law, such a determination of
+residential
+occupancy shall be deemed to permit
+residential use
+as-of-right for such
+dwelling unit
+.
+11-28
+Regulations Concerning Effective Date of Permits Issued Pursuant to BSA Variances
+Last Amended
+6/29/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-28
+11-281
+Permits issued pursuant to variances granted prior to the effective date of amendment C880800 ZMM, removing the Special Yorkville-East 86th Street District
+Last Amended
+6/29/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-281
+If, within the area affected by
+zoning map
+amendment C880800 ZMM, a variance to modify
+bulk
+regulations was granted prior to June 30, 1989, and a permit was issued in accordance with the terms of said variance within two years of the grant of said variance, construction pursuant to said permit may be continued.
+11-30
+BUILDING PERMITS ISSUED BEFORE EFFECTIVE DATE OF AMENDMENT
+Last Amended
+12/5/1991
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-30
+11-31
+General Provisions
+Last Amended
+12/5/2024
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-31
+For the purposes of Section
+11-33
+, relating to Building Permits Issued before Effective Date of Amendment to this Resolution, the following terms and general provisions shall apply:
+(a)        A lawfully issued building permit shall be a building permit which is based on an approved application showing complete plans and specifications, authorizes the entire construction and not merely a part thereof, and is issued prior to any applicable amendment to this Resolution. In case of dispute as to whether an application includes "complete plans and specifications" as required in this Section, the Commissioner of Buildings shall determine whether such requirement has been met.
+(b)        The rights set forth in these Sections shall be retained only if all modifications, made in such plans after the effective date of any applicable amendment to this Resolution, do not create a new
+non-compliance
+or
+non-conformity
+or increase the degree of
+non-compliance
+or
+non-conformity
+with the provisions of this Resolution, as amended.
+(c)        As used in Section
+11-33
+(Building Permits for Minor or Major Development or Other Construction Issued before Effective Date of Amendment):
+(1)        "minor development" shall include:
+(i)        construction of any single
+building
+which will be
+non-conforming
+or
+non-complying
+under the provisions of any applicable amendment to this Resolution; or
+(ii)        construction of two or more
+buildings
+on a single
+zoning lot
+which under the provisions of any applicable amendment to this Resolution will be
+non-conforming
+; or
+(iii)        construction of two or more
+buildings
+on contiguous
+zoning lots
+or
+zoning lots
+which would be contiguous except for their separation by a
+street
+or
+street
+intersection; and
+(a)        have been planned as a unit evidenced by a site plan for all such
+zoning lots
+filed with, and approved by, the Department of Buildings prior to the effective date of the applicable amendment; and
+(b)        will be
+non-conforming
+under the provisions of any applicable amendment to this Resolution; or
+(iv)        a major
+enlargement
+, which is an
+enlargement
+requiring the installation of foundations and involving at least 50 percent of the total
+floor area
+of such
+enlarged building
+, and which
+enlargement
+will be
+non-conforming
+or
+non-complying
+under the provisions of any applicable amendment to this Resolution.  For the purposes of Section
+11-33
+(Building Permits for Minor or Major Development or Other Construction Issued before Effective Date of Amendment) only, a major
+enlargement
+shall also include any other
+enlargement
+adding at least 50,000 square feet to the
+floor area
+of an existing
+building
+, which
+enlargement
+will be
+non-conforming
+or
+non-complying
+under the provisions of any applicable amendment to this Resolution.
+(2)        "major development" shall include:
+(i)        construction of two or more
+buildings
+on a single
+zoning lot
+which will be
+non-complying
+under the provisions of any applicable amendment to this Resolution; or
+(ii)        construction of two or more
+buildings
+on contiguous
+zoning lots
+or
+zoning lots
+which would be contiguous except for their separation by a
+street
+or
+street
+intersection; and
+(a)        have been planned as a unit evidenced by a site plan for all such
+zoning lots
+filed with, and approved by, the Department of Buildings prior to the effective date of the applicable amendment; and
+(b)        will be
+non-complying
+under the provisions of any applicable amendment to this Resolution.
+(3)        "Other construction" shall include:
+(i)        any
+enlargement
+other than a major
+enlargement
+; or
+(ii)        any
+extension
+,
+conversion
+or structural alteration; or
+(iii)        construction of any structure other than a
+building
+;
+which will be
+non-conforming
+or
+non-complying
+under the provisions of any applicable amendment to this Resolution.
+11-33
+Building Permits for Minor or Major Development or Other Construction Issued Before Effective Date of Amendment
+Last Amended
+12/5/1991
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-33
+The provisions of this Section shall apply to minor developments, major developments or other construction authorized by building permits lawfully issued before the effective date of an applicable amendment of this Resolution except as specifically provided elsewhere in this Resolution.
+11-331
+Right to construct if foundations completed
+Last Amended
+2/2/2011
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-331
+If, before the effective date of an applicable amendment of this Resolution, a building permit has been lawfully issued, as set forth in paragraph (a) of Section
+11-31
+, to a person with a possessory interest in a
+zoning lot
+, authorizing a minor development or a major development, such construction, if lawful in other respects, may be continued provided that:
+(a)        in the case of a minor development, all work on foundations had been completed prior to such effective date; or
+(b)        in the case of a major development, the foundations for at least one
+building
+had been completed prior to such effective date.
+In the event that such required foundations have been commenced but not completed before such effective date, the building permit shall automatically lapse on the effective date and the right to continue construction shall terminate. An application to renew the building permit may be made to the Board of Standards and Appeals not more than 30 days after the lapse of such building permit. The Board may renew the building permit and authorize an extension of time limited to one term of not more than six months to permit the completion of the required foundations, provided that the Board finds that, on the date the building permit lapsed, excavation had been completed and substantial progress made on foundations.
+11-332
+Extension of period to complete construction
+Last Amended
+6/29/1994
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-332
+(a)        In the event that the construction permitted in Section
+11-331
+(Right to construct if foundations completed) has not been completed and a certificate of occupancy including a temporary certificate of occupancy, issued therefor within two years after the effective date of any applicable amendment, or for other construction if construction has not been completed on the effective date of any applicable amendment, the building permit shall automatically lapse and the right to continue construction shall terminate.  An application to renew the building permit may be made to the Board of Standards and Appeals not more than 30 days after the lapse of such building permit.  The Board may renew such building permit for two terms of not more than two years each for a minor development or three terms of not more than two years each for a major development or one term of not more than three months for other construction.  In granting such an extension, the Board shall find that substantial construction has been completed and substantial expenditures made, subsequent to the granting of the permit, for work required by any applicable law for the use or development of the property pursuant to the permit.
+(b)        However, in the event that construction has not been completed at the expiration of the extended terms specified in paragraph (a) of this Section, or in Sections
+11-333
+(Residential developments with building permits issued on or before June 30, 1989) or
+11-334
+(Building permits issued prior to June 29, 1994), such building permit may be renewed by the Board for terms of one year each upon the following findings:
+(1)        that the applicant has been prevented from completing such construction by hardship or circumstances beyond the applicant's control;
+(2)        that the applicant has not recovered all or substantially all of the financial expenditures incurred in construction, nor is the applicant able to recover substantially all of the financial expenditures incurred through development that conforms and complies with any applicable amendment to this Resolution; and
+(3)        that there are no considerations of public safety, health and welfare that have become apparent since the issuance of the permit that indicate an overriding benefit to the public in enforcement of the applicable amendment to this Resolution.
+(c)        The rights or obligations that accrue or are created by this Section shall commence on December 5, 1991.
+(d)        If judicial proceedings affecting the validity of the building permit have been instituted, the rights or obligations that accrue or are created by this Section shall commence upon the date of entry of the final order in such proceedings, including all appeals.
+11-333
+Special allowances for building permits issued prior to certain dates
+†
+Last Amended
+10/29/2025
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-333
+Residential developments with building permits issued on or before June 30, 1989
+​​​​If on or before June 30, 1989, the foundations of a
+residential
+major or minor development have been completed and permits issued pursuant to the requirements of Section
+11-331
+(Right to construct if foundations completed), and a certificate of occupancy has not been issued by June 30, 1991, construction may continue until June 30, 1995, for a minor development, or until June 30, 1997, for a major development, provided the Commissioner of Buildings determines that 30 percent of the
+floor area
+of the major or minor development was roofed and enclosed by walls by June 30, 1991. Applications to continue construction under this Section must be filed with the Commissioner of Buildings within 90 days of December 5, 1991. If the Commissioner of Buildings has granted the right to continue construction of a major or minor development pursuant to this Section, the Board of Standards and Appeals may not grant the right to continue construction pursuant to paragraph (a) of Section
+11-332
+.
+Building permits issued prior to June 29, 1994
+If, before June 29, 1994, a building permit has been lawfully issued, as set forth in paragraph (a) of Section
+11-31
+, to a person with a possessory interest in a
+zoning lot
+authorizing construction, such construction may be started or continued for a period of one year pursuant to the regulations governing R6A, R6B, R7A, R7B, R7X, R8A, R8B, R8X, R9A, R9X or R10A Districts or
+Commercial Districts
+with such
+Residence District
+bulk
+regulations, or in any other district in which such construction complies with the Quality Housing Program, prior to the adoption of N940257 ZRY - Quality Housing Follow-Up Text Amendments.
+Building permits for other construction in R1-2A and R2A Districts
+In R1-2A Districts established on or after April 22, 2009, and R2A Districts established on or after December 20, 2006, if a building permit for other construction has been lawfully issued prior to the dates establishing such districts, such construction may be continued, notwithstanding the provisions of paragraph (a) of Section
+11-332
+(Extension of period to complete construction), provided that the Department of Buildings determines that all of the requisite structural framing to perform the work authorized under the permit was completed on or before the date establishing the district. If the Commissioner of Buildings determines that such framing was not complete on such date, the provisions of paragraph (a) of Section
+11-332
+shall apply.
+Building permits issued before April 30, 2008
+In all districts other than R1, R2, R3, R4 or R5 Districts, if, before April 30, 2008, a building permit has been lawfully issued authorizing construction on a
+zoning lot
+, the provisions of N080078 ZRY, pertaining to
+yards
+and N080081 ZRY, pertaining to
+street
+trees, shall not apply, provided that foundations have been completed in accordance with paragraphs (a) and (b) of Section
+11-331
+(Right to construct if foundations completed), as applicable, before April 30, 2009. The provisions of Section
+11-332
+(Extension of period to complete construction) shall not apply.
+Building permits issued and applications filed before April 22, 2009
+If, before April 22, 2009, a building permit has been lawfully issued authorizing construction on a
+zoning lot
+, the provisions of N090191 ZRY, pertaining to bicycle parking, shall not apply. If, on or before November 17, 2008, an application for a special permit or variance is pending before the Board of Standards and Appeals or an authorization or special permit from the City Planning Commission has been certified or referred to authorize construction on a
+zoning lot
+, the provisions of N090191 ZRY, pertaining to bicycle parking, shall not apply. For hospitals, if, before April 22, 2009, an application for a special permit or variance is pending before the Board of Standards and Appeals or an authorization or special permit from the City Planning Commission has been filed to authorize construction on a
+zoning lot
+, the provisions of N090191 ZRY, pertaining to bicycle parking, shall not apply.
+Building permits issued before February 2, 2011
+If a building permit has been lawfully issued on or before February 2, 2011, authorizing “other construction” as set forth in paragraph (c)(3) of Section
+11-31
+(General Provisions), construction pursuant to such permit may continue pursuant to the regulations governing such construction prior to the adoption of N110090(A) ZRY (Key Terms Clarification zoning text amendment) until February 2, 2012. However, this Section shall not apply to “other construction” subject to Sections
+23-738
+(Height limitations for narrow buildings or enlargements) or
+109-122
+(Height and setback regulations).
+Building permits issued before December 6, 2024
+The provisions of this Section shall apply to
+developments
+or
+enlargements
+seeking building permits for
+buildings
+in which floor space is exempted pursuant to paragraph (12)(ii) of the definition of
+floor area
+as was set forth in Section
+12-10
+(DEFINITIONS) before December 6, 2023.
+If, on or before December 6, 2023, an application for a
+development
+,
+enlargement
+or
+conversion
+has been filed with the Department of Buildings, and if, on or before December 6, 2024, the Department of Buildings has approved an application for a foundation, a new building or an alteration based on a complete zoning analysis showing zoning compliance for such
+development
+,
+enlargement
+, or
+conversion
+, such application may be continued, and construction may be started or continued.
+Buildings
+receiving building permits pursuant to this Section shall not be considered
+ultra low energy buildings
+.
+Building permits issued before June 6, 2025
+If, on or before June 6, 2024, an application for a
+development
+,
+enlargement
+or change of
+use
+has been filed with the Department of Buildings that would not conform with the applicable provisions of N 240010 ZRY pertaining to
+ground floor level
+streetscape regulations, and if, on or before June 6, 2025, the Department of Buildings has approved an application for a foundation, a new
+building
+or an alteration based on a complete zoning analysis showing zoning compliance for such
+development
+,
+enlargement
+or change of
+use
+, with the applicable rules existing prior to June 6, 2024, such application may be continued, and construction may be started or continued.
+Building permit applications approved before December 5, 2025
+If, on or before December 5, 2024, an application for a
+development
+,
+enlargement
+or change of
+use
+has been filed with the Department of Buildings to authorize construction with the applicable rules of this Resolution existing prior to the adoption of the provisions of N 240290 ZRY on December 5, 2024, and if, on or before December 5, 2025, the Department of Buildings has approved an application for a foundation, a new
+building
+or an alteration based on a complete zoning analysis showing zoning compliance for such
+development
+, enlargement
+or change of
+use#, such application may be continued, and construction may be started or continued.
+Any such application may be amended one or more times prior to December 5, 2025 to modify the
+development
+,
+enlargement
+or change of
+use
+or to modify the configuration of the
+zoning lot
+on which such
+development
+,
+enlargement
+or change of
+use
+is located, and retain vested status, provided the complete zoning analysis associated with such amended application is approved prior to December 5, 2025.
+Building permit applications approved before October 29, 2025
+If, on or before October 29, 2025, an application for a
+development
+,
+enlargement
+or change of
+use
+has been filed with the Department of Buildings to authorize construction with applicable rules of this Resolution existing prior to the adoption of the provisions of N 250173 ZRQ on October 29, 2025, and if, on or before October 29, 2026, the Department of Buildings has approved an application for a foundation, a new
+building
+or an alteration based on a complete zoning analysis showing zoning compliance for such
+development
+,
+enlargement
+or change of
+use
+, such application may be continued, and construction may be started or continued.
+Any such application may be amended one or more times prior to October 29, 2026, to modify the
+development
+,
+enlargement
+or change of
+use
+, and retain vested status, provided the complete zoning analysis associated with such amended application is approved prior to October 29, 2026.
+11-334
+Building permits issued in the flood zone
+Last Amended
+12/6/2023
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-334
+The provisions of this Section shall apply within
+flood zones
+. The provisions of this Section are subject to all provisions of Title 28 of the Administrative Code of the City of New York and Appendix G of the New York City Building Code, or its successors, including those pertaining to expiration, reinstatement, revocation and suspension. Changes in
+flood maps
+shall be considered an amendment of the Zoning Resolution for the purposes of applying the provisions of Section
+11-30
+(BUILDING PERMITS ISSUED BEFORE EFFECTIVE DATE OF AMENDMENT)
+.
+(a)        Construction approved pursuant to previous versions of
+flood maps
+If, within one year prior to a change in the
+flood maps
+affecting a property, the Department of Buildings issued
+a building permit for construction on that property pursuant to the previous
+flood maps
+, the provisions of Article VI, Chapter 4 (Special Regulations Applying in Flood Hazard Areas) shall be deemed modified so as to substitute the previous
+flood maps
+for the current
+flood maps
+and such construction may continue pursuant to such prior
+flood maps
+until two years after the date of adoption of the new
+flood maps
+. After this date, the vesting provisions of Section
+11-30
+shall apply.
+(b)        Provisions applying when Appendix A (Special Regulations for Neighborhood Recovery) of Article VI, Chapter 4 expires
+This provision shall become effective only upon the expiration of Appendix A of Article VI, Chapter 4, adopted on July 23, 2015. If a building permit authorizing construction pursuant to Appendix A has been approved on or before the expiration of such Appendix, construction may continue up to two years after the expiration. After such date, the provisions of Section
+11-30
+shall apply.
+11-34
+Additional Provisions for Extension of Period to Complete Construction
+Last Amended
+5/29/2019
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-34
+11-341
+Building applications filed before July 8, 2017
+Last Amended
+5/29/2019
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-341
+If, before July 8, 2017, an application has been filed with the Department of Buildings for a
+development
+on a
+corner lot
+with a
+lot area
+of less than 5,000 square feet, located in a C5-2 District in Community District 5 of the Borough of Manhattan, the provisions established in N 190230 ZRY pertaining to calculating
+floor area
+in a tower containing
+residences
+shall not apply in the portion of such
+building
+below a height of 130 feet above the
+base plane
+, provided that the aggregate height of any floor space on
+stories
+occupied predominantly by mechanical equipment provided pursuant to paragraph (8) of the definition of
+floor area
+in Section
+12-10
+(DEFINITIONS), and any floor space that is or becomes unused or inaccessible within a
+building
+, pursuant to paragraph (k) of the definition of
+floor area
+in Section
+12-10
+, does not exceed 80 feet.
+11-40
+EXCEPTIONS, VARIANCES, AUTHORIZATIONS OR PERMITS
+Last Amended
+7/18/1995
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-40
+11-41
+Exceptions, Variances or Permits Previously Authorized Pursuant to the 1916 Zoning Resolution
+Last Amended
+7/18/1995
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-41
+Whenever under the provisions of the 1916 Zoning Resolution as amended, either the Board of Standards and Appeals or the City Planning Commission with the approval of the Board of Estimate or the City Council, has authorized any
+use
+to locate in a district in which it is not permitted as-of-right by issuing a variance, exception or permit, such existing
+use
+established pursuant to such grant may be continued, changed,
+extended
+,
+enlarged
+or structurally altered only as provided in this Section or in Article VII, Chapter 3 or 4, provided that the
+lot area
+of the
+zoning lot
+occupied by such
+use
+is not increased.
+11-411
+Renewals
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-411
+Where no limitation as to duration of the
+use
+was imposed at the time of authorization, such
+use
+may be continued.  Where such
+use
+was authorized subject to a term of years, such
+use
+may be continued until the expiration of the term, and thereafter, the agency which originally authorized such
+use
+may, in appropriate cases, extend the period of continuance for one or more terms of not more than 10 years each.  The agency may prescribe appropriate conditions and safeguards to minimize adverse effects of such
+use
+on the character of the neighborhood.
+11-412
+Alterations, extensions or enlargements
+Last Amended
+12/5/1991
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-412
+Repairs or
+incidental alterations
+may be made and in appropriate cases the authorizing agency may permit structural alterations,
+extensions
+or
+enlargements
+limited to the
+zoning lot
+that was granted a variance, exception or permit prior to December 15, 1961.  However, the
+use
+of any
+building or other structure
+shall not be
+extended
+, and the
+building or other structure
+shall not be
+enlarged
+, in excess of 50 percent of the
+floor area
+of such
+building
+(or size of such structure) occupied or utilized by the
+use
+on December 15, 1961, and, except as otherwise provided in Article VII, no structural alterations,
+extensions
+or
+enlargements
+shall be authorized for a new
+non-conforming use
+authorized under the provisions of Section
+11-413
+(Change of use).
+11-413
+Change of use
+Last Amended
+10/25/1967
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-413
+Such
+use
+may be changed to a conforming
+use
+and in appropriate cases the authorizing agency may permit such
+use
+to be changed to another
+non-conforming use
+which would be permitted under the provisions applicable to
+non-conforming uses
+as set forth in Sections
+52-31
+to
+52-36
+, inclusive, relating to Change of Non-Conforming Use, provided that the authorizing agency finds that such change of
+use
+will not impair the essential character or the future use or development of the surrounding area.
+In permitting a change to another
+non-conforming use
+, such authorizing agency may impose appropriate conditions and safeguards to minimize any adverse effects upon the character of the surrounding area.
+For the purposes of this Section, a change of
+use
+is a change to another
+use
+listed in the same or any other Use Group.  A change in ownership or occupancy shall not, by itself, constitute a change of
+use
+.
+11-42
+Lapse of Authorization or Special Permit Granted by the City Planning Commission Pursuant to the 1961 Zoning Resolution
+Last Amended
+12/5/2024
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-42
+(a)        Except as otherwise provided in paragraphs (b), (c) or (d) of this Section, any authorization or special permit granted by the City Planning Commission under the provisions of the 1961 Zoning Resolution shall automatically lapse if substantial construction, in accordance with the plans for which such special permit or authorization was granted, has not been completed within four years from the effective date of such permit or authorization. Substantial construction shall mean, in the case of a new
+building
+or
+buildings
+, the substantial construction of at least one
+building
+.
+(b)        Any authorization or special permit for a site that is part of an urban renewal area or other government-sponsored or government-assisted project shall automatically lapse within four years from the date of the applicant's possession of the site, or sites, or the effective date of an authorization or special permit, whichever is later; or
+(c)        Upon a showing that a longer time period for substantial construction is required for a phased construction program of a multi-
+building
+complex, the Commission may, at the time of granting an authorization or special permit, extend the period set forth in paragraph (a) of this Section to a period not to exceed 10 years; or
+(d)        In the event judicial proceedings have been instituted to review the decision to grant any authorization or special permit, the lapse period set forth in paragraph (a), (b) or (c) of this Section, whichever is applicable, shall commence upon the date of entry of the final order in such proceedings, including appeals.
+11-43
+Renewal of Authorization or Special Permit
+Last Amended
+7/18/1995
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-43
+Any authorization or special permit granted by the City Planning Commission, except one granted with a 10 year lapse period, that would automatically lapse as set forth in Section
+11-42
+(Lapse of Authorization or Special Permit Granted by the City Planning Commission Pursuant to the 1961 Zoning Resolution) may be renewed without public hearing, for two additional three-year terms, provided that the Commission finds that the facts upon which the authorization or special permit was granted have not substantially changed. However, all special permits or authorizations granted by the Commission shall lapse after a total of 10 years from the date of their original granting if substantial construction has not taken place at such time. An application for a renewal of authorization or special permit shall be filed with the Commission before it lapses.
+11-44
+Special Permits Granted Prior to August 12, 2004
+Last Amended
+8/12/2004
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-44
+Within the area bounded by West 22nd Street, a line 100 feet west of Fifth Avenue, a line midway between West 16th Street and West 17th Street, and a line 100 feet east of Sixth Avenue, any special permit granted by the City Planning Commission may be started or continued, in accordance with the terms thereof, or as such terms may be subsequently modified, pursuant to the
+bulk
+regulations in effect at the time such special permit was granted, subject to the provisions of Sections
+11-42
+(Lapse of Authorization or Special Permit Granted by the City Planning Commission Pursuant to the 1961 Zoning Resolution) and
+11-43
+(Renewal of Authorization or Special Permit).
+11-45
+Authorizations or Permits in Lower Density Growth Management Areas
+Last Amended
+8/15/2024
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-45
+The provisions of this Section shall apply within
+lower density growth management areas
+.
+Notwithstanding the provisions of N 040414 ZRY, pertaining to
+lower density growth management areas
+, and subject to the provisions of Section
+11-30
+(BUILDING PERMITS ISSUED BEFORE EFFECTIVE DATE OF AMENDMENT) with respect to amendments of this Resolution other than N040414ZRY, Section
+11-42
+(Lapse of Authorization or Special Permit Granted by the City Planning Commission Pursuant to the 1961 Zoning Resolution) and Section
+11-43
+(Renewal of Authorization or Special Permit), the following provisions shall apply with respect to special permits and authorizations granted by the City Planning Commission or for which certification or referral for public review has been made prior to August 12, 2004:
+Any
+development
+or
+enlargement
+, including minor modifications thereto, granted a special permit or authorization by the Commission and, where applicable, the City Council, prior to August 12, 2004, may be
+developed
+or
+enlarged
+pursuant to the terms of such permit or authorization and, to the extent not modified under the terms of such permit or authorization, in accordance with the regulations in effect at the time such permit or authorization was granted.
+Any application for a special permit certified by the Department of City Planning or application for an authorization referred by the Department of City Planning for public review prior to May 24, 2004, may be continued pursuant to the regulations in effect at the time of certification or referral and, if granted by the Commission and, where applicable, the City Council, may be
+developed
+or
+enlarged
+pursuant to the terms of such permit or authorization, including minor modifications thereto and, to the extent not modified under the terms of such permit or authorization, in accordance with the regulations in effect at the time such application was certified or referred for public review.
+Notwithstanding the provisions of N 040414 ZRY, the following provisions shall apply to certain
+developments
+within the
+Special South Richmond Development District
+:
+Developments
+, including minor modifications thereto, within the
+Special South Richmond Development District
+that contain
+designated open space
+and a portion of the
+waterfront esplanade
+, where such
+development
+is conditioned upon a restrictive declaration that includes a site plan for such
+development
+, including provisions for public access to such
+designated open space
+and
+waterfront esplanade
+, may be
+developed
+in accordance with the regulations in effect prior to August 12, 2004.
+Developments
+within the
+Special South Richmond Development District
+accessed, in part, by
+private roads
+and consisting, in part, of construction within
+streets
+that are unimproved, and for which a conservation easement has been granted to the City, and for which the Board of Standards and Appeals has granted a permit pursuant to Section 35 of the General City Law, or its successor, and an application for an authorization for such
+development
+has been filed pursuant to paragraph (a) of Section
+26-27
+(Waiver of Bulk Regulations Within Unimproved Streets) prior to May 1, 2004, may be
+developed
+in accordance with the regulations in effect prior to August 12, 2004.
+11-46
+Special Vesting Provisions
+Last Amended
+6/6/2024
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-46
+If, before June 6, 2024, an application for a special permit
+use
+has been certified by the City Planning Commission or has been filed with the Board of Standards and Appeals, such application may continue pursuant to the regulations in effect at the time such special permit was certified by the Commission or filed with the Board. Such special permits, if granted by the Commission or Board, may be started or continued, in accordance with the terms thereof, or as such terms may be subsequently modified, pursuant to the regulations in effect at the time such special permits were certified by the Commission or filed with the Board.
+11-47
+Applications for Certain Approvals Filed Prior to December 5, 2024
+Last Amended
+12/5/2024
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-47
+If, on or before December 5, 2024, an application for a certification has been filed with the Department of City Planning, an application for an authorization or special permit has been certified or referred by the City Planning Commission or an application for a project has been filed with the Board of Standards and Appeals, such application may continue pursuant to the rules in effect at the time such certification was filed with the Department, such authorization or special permit was certified or referred by the Commission or such project was filed with the Board. Such applications, if granted by the Chairperson, Commission or Board, as applicable, may be started or continued, in accordance with the terms thereof, or as such terms may be subsequently modified, pursuant to the regulations in effect at the time such certification was filed with the Department, such authorizations or special permits were certified or referred by the Commission or such project was filed with the Board.
+Any certification granted by the Chairperson, authorization or special permit granted by the Commission, or application granted by the Board prior to December 5, 2024 may be started or continued, in accordance with the terms thereof, or as such terms may be subsequently modified, pursuant to the regulations in effect at the time such authorization or special permit was granted.
+11-50
+SEPARABILITY
+Last Amended
+11/16/1978
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-50
+It is hereby declared to be the legislative intent that:
+(a)        if a court of competent jurisdiction finds any provisions of this Resolution to be invalid or ineffective in whole or in part, the effect of such decision shall be limited to those provisions which are expressly stated in the decision to be invalid or ineffective, and all other provisions of this Resolution shall continue to be separately and fully effective.
+(b)        if a court of competent jurisdiction finds the application of any provision or provisions of this Resolution to any
+zoning lot
+,
+building or other structure
+, or tract of land to be invalid or ineffective in whole or in part, the effect of such decision shall be limited to the person, property or situation immediately involved in the controversy, and the application of any such provision to other persons, property or situations shall not be affected.
+11-60
+VIOLATIONS
+Last Amended
+9/14/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-60
+11-61
+General Provisions
+Last Amended
+9/14/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-61
+The owner, general agent, lessee or tenant of any
+building or other structure
+or tract of land in which a violation of this Resolution has been committed or shall exist; or the general agent, architect, builder or contractor; or any other person who commits, takes part or assists in any such violation or who maintains any
+building or other structure
+or tract of land in which any such violation shall exist, shall be guilty of a misdemeanor.
+Any such person, having been served with an order to remove any such violation, who shall fail to comply with such order within 10 days after such service or who shall continue to violate any provision of this Resolution in the respect named in such order shall be guilty of a misdemeanor.
+In addition to the foregoing remedies, the City may maintain an action for an injunction to restrain any violation of this Resolution.
+11-62
+Failure to Comply with Special Permits, Variances, Authorizations or Certifications
+Last Amended
+9/14/1989
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-62
+Failure to comply with any conditions or restrictions in special permits, variances, authorizations or certifications granted under this Resolution shall constitute a violation of this Resolution and may constitute the basis for denial or revocation of a building permit or certificate of occupancy, or for revocation of such special permit, variance, authorization or certification, and for all other applicable remedies.
+In any application for modification, renewal or extension of a previously granted special permit, authorization or certification, or for modification or renewal of a previously granted variance, the applicant shall verify whether it has complied with each of the conditions and safeguards theretofore prescribed by the City Planning Commission, the Board of Estimate or the Board of Standards and Appeals, or their successors, as applicable.  In the event that the applicant has not complied with such conditions and safeguards, such
+non-compliance
+may constitute grounds for the City Planning Commission, the Board of Estimate or the Board of Standards and Appeals, or their successors, as applicable, to disapprove the application for modification, renewal or extension.
+11-70
+EFFECTIVE DATE
+Last Amended
+12/15/1961
+History
+Print Section
+Copy Link
+https://zr.planning.nyc.gov/article-i/chapter-1/11-70
+This Resolution shall take effect one year after the date of its approval by the Board of Estimate.
+After the date of approval by the Board of Estimate, applications for permits to build in accordance with the provisions of this Resolution may be filed with and approved by the Department of Buildings, provided that no building permit shall be lawfully issued under this Resolution until such effective date or thereafter.
